@@ -1,2 +1,2 @@
 # python-dns
-Python dns practice project.
+Python dns practice project
