@@ -8,7 +8,7 @@ dns_server_ip = '1.1.1.1'
 dns_server_port = 53
 query = 'google.com' # change this to the hostname you want to lookup
 
-### configure me ###
+### configure me ####
 
 size = 1024
 
